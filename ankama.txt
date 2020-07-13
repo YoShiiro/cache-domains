@@ -5,3 +5,4 @@ dofustouch.cdn.ankama.com
 krosmaga.cdn.ankama.com
 wakfu.cdn.ankama.com
 waven.cdn.ankama.com
+launcher-staging.cdn.ankama.com

@@ -1,0 +1,7 @@
+launcher.cdn.ankama.com
+dofus2.cdn.ankama.com
+dofusretro.cdn.ankama.com
+dofustouch.cdn.ankama.com
+krosmaga.cdn.ankama.com
+wakfu.cdn.ankama.com
+waven.cdn.ankama.com
